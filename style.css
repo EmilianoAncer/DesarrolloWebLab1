@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+}
+address {
+    text-align: center;
+}
+.blue {
+    background-color: #5eb6bd;
+}
+.blue-er {
+    background-color: #044c52;
+    color: #b8f1f5;
+    margin: 0%;
+}
+.links {
+    color: #eef590;
+}
+h2,
+p,
+h3 {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    padding-block-start: 0.5em;
+    padding-block-end: 0.5em;
+}
+ul {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    padding-block-end: 0.5em;
+}
+
+p {
+    margin-left: 22.5px;
+}
+h3 {
+    margin-left: 15px;
+}
+h2 {
+    margin-left: 7.5px;
+}
+.boxes {
+    display: flex;
+}
+.workBox,
+.intBox {
+    text-align: center;
+    width: 50%;
+    margin: 1.5em;
+    background-color: #044c52;
+    color: #b8f1f5;
+    padding: 1em;
+}
+.noInd {
+    margin: 0%;
+}
